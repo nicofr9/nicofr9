@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nicofr9
 - 👀 I’m interested in cybersec
-- 🌱 I’m currently learning Mali linux
+- 🌱 I’m currently learning aws development
 - 💞️ I’m looking to collaborate about everything i can do
 - 📫 How to reach me ... nicolofrongia@outlook.it
 
